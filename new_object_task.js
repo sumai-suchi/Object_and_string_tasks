@@ -7,3 +7,5 @@ const colors = {
 
 const color= colors["golden rod"];
 console.log(color);
+
+
